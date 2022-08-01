@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jubayer-ema-john-Simple/static/css/main.358b23b4.css",
+    "main.js": "/Jubayer-ema-john-Simple/static/js/main.56222eb4.js",
+    "static/js/787.91804263.chunk.js": "/Jubayer-ema-john-Simple/static/js/787.91804263.chunk.js",
+    "static/media/logo.png": "/Jubayer-ema-john-Simple/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "/Jubayer-ema-john-Simple/index.html",
+    "main.358b23b4.css.map": "/Jubayer-ema-john-Simple/static/css/main.358b23b4.css.map",
+    "main.56222eb4.js.map": "/Jubayer-ema-john-Simple/static/js/main.56222eb4.js.map",
+    "787.91804263.chunk.js.map": "/Jubayer-ema-john-Simple/static/js/787.91804263.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358b23b4.css",
+    "static/js/main.56222eb4.js"
+  ]
+}
