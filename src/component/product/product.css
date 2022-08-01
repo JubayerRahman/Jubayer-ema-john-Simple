@@ -1,0 +1,32 @@
+.singleProduct {
+    border-bottom: 2px solid lightgray;
+    display: flex;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+
+.singleProduct h3 {
+    color: blue;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.singleProduct .productInfo {
+    margin-left: 40px;
+}
+.singleProduct button{
+    font-size: larger;
+    padding: 10px;
+    background-color: goldenrod;
+    width: 150px;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.singleProduct button:hover{
+    background-color: white;
+    border: 3px solid blue;
+    color: blue;
+    cursor: pointer;
+}
