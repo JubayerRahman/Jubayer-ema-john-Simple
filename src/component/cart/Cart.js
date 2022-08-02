@@ -20,8 +20,8 @@ const cart = (props) => {
         shipping = 15.90
     }
 
-    let tax =Number((total/10)).toFixed(2);
-    let finalTotal = Number((total + shipping + tax)).toFixed(2);
+    let tax = (total/10).toFixed(2);
+    let finalTotal = Number((total + shipping + Numbrt(tax)).toFixed(2);
     
 
     return (
